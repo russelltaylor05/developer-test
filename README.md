@@ -5,7 +5,7 @@ This is a skeleton program to be used by developers as a test.
 
 # Requirements
 
-- Node
+- Node 14
 - NPM
 
 # Installation
